@@ -1,5 +1,4 @@
 import pyautogui
-import time
 import discord
 from discord.ext import commands
 from PIL import Image
