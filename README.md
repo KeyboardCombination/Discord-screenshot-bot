@@ -4,6 +4,8 @@ A Discord bot made in Python that will take screenshots of your desktop on a com
 # Note
 This bot will only work if you are hosting it on a computer. It won't work if you are hosting it on a webserver of some sort.
 
+This bot also requires discord.py which you can get here: https://github.com/Rapptz/discord.py
+
 # How to setup
 Setting it up is pretty simple. Just replace "TOKEN" with your bot token and put your bot.py in a separate folder, inside that folder you need to make another folder just named "screenshots" like this.
 
